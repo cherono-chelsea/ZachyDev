@@ -29,6 +29,7 @@
 - Portfolio: [Portfolio](https://codewithzachy.netlify.com/)
 
 - ⚡ Fun fact: It's geeky there!
+- ⚡ ## I SPEAK JS
 
 ![Zachy's github stats](https://github-readme-stats.vercel.app/api?username=ZachyDev&hide=["issues"]&show_icons=true)
 
