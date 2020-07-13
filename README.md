@@ -3,7 +3,7 @@
 
 <img align='right' src="https://github.com/ZachyDev/ZachyDev/blob/master/Zachy.PNG" width='200"'>
 
-[![Twitter Badge](https://img.shields.io/badge/-@Zachy_Codes-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Zachy_Codes)](https://twitter.com/Zachy_Codes) [![Linkedin Badge](https://img.shields.io/badge/-zachydev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zachydev/)](https://www.linkedin.com/in/ZachyDev/) [![Medium Badge](https://img.shields.io/badge/-Zachy_on_Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mosetizachary001/)](https://medium.com/mosetizachary001)
+[![Twitter Badge](https://img.shields.io/badge/-@Zachy_Codes-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Zachy_Codes)](https://twitter.com/Zachy_Codes) [![Linkedin Badge](https://img.shields.io/badge/-zachydev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zachydev/)](https://www.linkedin.com/in/ZachyDev/) [![Medium Badge](https://img.shields.io/badge/-Zachy_on_Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mosetizachary001/)](https://medium.com/@mosetizachary001)
 [![Gmail Badge](https://img.shields.io/badge/-zachy.alc.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mosetizachary001@gmail.com)](mailto:mosetizachary001@gmail.com)
 
 - Meet Zachy🌟 Js_Geek👋💻 :man: from Nairobi, Kenya - Expert Web Technologies :revolving_hearts:
